@@ -1,2 +1,2 @@
 # STC-Website
-Tech Up
+Tech Up Trial Website
